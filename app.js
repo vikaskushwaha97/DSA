@@ -1,23 +1,38 @@
-const express = require('express');
-const fs = require('fs');
-const path = require('path');
+const express = require("express");
+const fs = require("fs");
+const path = require("path");
+
 const app = express();
 
-app.use(express.json());
+// GET /files
+app.get("/files", (req, res) => {
+    fs.readdir("./files", (err, files) => {
+        if (err) {
+            return res.status(500).json({
+                error: "Unable to read directory"
+            });
+        }
 
-app.get('/', function(req,res){
-    res.send("Hello World");
+        res.status(200).json(files);
+    });
+});
 
-})
+// GET /file/:filename
+app.get("/file/:filename", (req, res) => {
+    const filePath = path.join(__dirname, "files", req.params.filename);
 
+    fs.readFile(filePath, "utf8", (err, data) => {
+        if (err) {
+            return res.status(404).send("File not found");
+        }
 
+        res.status(200).send(data);
+    });
+});
 
+// Any other route
+app.use((req, res) => {
+    res.status(404).send("Not Found");
+});
 
-
-
-
-
-const PORT = process.env.PORT || 3000;
-app.listen(PORT ,()=>{
-    console.log(`server is running on http://localhost:${PORT}`);
-})
+module.exports = app;

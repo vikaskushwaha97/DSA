@@ -12,4 +12,16 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/vikaskushwaha97/DSA/tree/master/1768-merge-strings-alternately) |
+## Depth-First Search
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vikaskushwaha97/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vikaskushwaha97/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Graph Theory
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vikaskushwaha97/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->

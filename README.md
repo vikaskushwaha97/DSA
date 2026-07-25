@@ -11,6 +11,7 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vikaskushwaha97/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1768-merge-strings-alternately](https://github.com/vikaskushwaha97/DSA/tree/master/1768-merge-strings-alternately) |
 ## Depth-First Search
 |  |
@@ -24,4 +25,12 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 |  |
 | ------- |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vikaskushwaha97/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vikaskushwaha97/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/vikaskushwaha97/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->

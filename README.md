@@ -41,4 +41,20 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vikaskushwaha97/DSA/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

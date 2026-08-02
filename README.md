@@ -46,11 +46,13 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 | ------- |
 | [0070-climbing-stairs](https://github.com/vikaskushwaha97/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vikaskushwaha97/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -60,4 +62,5 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 | ------- |
 | [0070-climbing-stairs](https://github.com/vikaskushwaha97/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

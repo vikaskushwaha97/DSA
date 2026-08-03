@@ -37,6 +37,7 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vikaskushwaha97/DSA/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/vikaskushwaha97/DSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/vikaskushwaha97/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
@@ -52,6 +53,7 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vikaskushwaha97/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vikaskushwaha97/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/vikaskushwaha97/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/vikaskushwaha97/DSA/tree/master/1137-n-th-tribonacci-number) |

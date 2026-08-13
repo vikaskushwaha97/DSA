@@ -41,6 +41,7 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 | [0213-house-robber-ii](https://github.com/vikaskushwaha97/DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vikaskushwaha97/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1470-shuffle-the-array](https://github.com/vikaskushwaha97/DSA/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/vikaskushwaha97/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/vikaskushwaha97/DSA/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -81,4 +82,8 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vikaskushwaha97/DSA/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vikaskushwaha97/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

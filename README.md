@@ -40,6 +40,7 @@ Covers arrays, linked lists, stacks, queues, graphs, trees, and dynamic programm
 | [0198-house-robber](https://github.com/vikaskushwaha97/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vikaskushwaha97/DSA/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/vikaskushwaha97/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1470-shuffle-the-array](https://github.com/vikaskushwaha97/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/vikaskushwaha97/DSA/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
